@@ -8,7 +8,7 @@
     "Ben Loveridge <benl@gradecam.com>",
     "Richard Bateman <rbateman@gradecam.com>"
   ],
-  "main": "dist/fastRepeat.min.js",
+  "main": "/dist/fastRepeat.min.js",
   "keywords": [
     "fast-repeat",
     "ng-repeat",
