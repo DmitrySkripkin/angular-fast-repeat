@@ -2,13 +2,12 @@
   "name": "angular-fast-repeat",
   "version": "0.0.17",
   "description": "Fast ng-repeat replacement",
-  "main": "fastrepeat.js",
+  "main": "./dist/fastRepeat.min.js",
   "authors": [
     "Rob Porter <rob@gradecam.com>",
     "Ben Loveridge <benl@gradecam.com>",
     "Richard Bateman <rbateman@gradecam.com>"
   ],
-  "main": "/dist/fastRepeat.min.js",
   "keywords": [
     "fast-repeat",
     "ng-repeat",
